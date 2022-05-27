@@ -1,0 +1,4 @@
+insert into clients (name,phone,email,start_date,end_date,creation_date,shared_key)values('NICK JONAS','12333-455','nick.jh@hotmail.com','2015-01-12','2030-12-22', NOW(),'NJONAS');
+insert into clients (name,phone,email,start_date,end_date,creation_date,shared_key)values('Ricardo Arjona','33444-455','ricka.jh@hotmail.com','2015-01-12','2030-12-22', NOW(),'Aarjona');
+insert into clients (name,phone,email,start_date,end_date,creation_date,shared_key)values('PEDRO MENDEZ','1234115','pho.jh@hotmail.com','2015-01-12','2030-12-22', NOW(),'Pmendez');
+insert into clients (name,phone,email,start_date,end_date,creation_date,shared_key)values('Mario Montenegro','8786776','mmonte.jh@hotmail.com','2015-01-12','2030-12-22', NOW(),'Mmontenegro');
